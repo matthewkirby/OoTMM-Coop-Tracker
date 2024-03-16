@@ -1,0 +1,15 @@
+
+.location {
+  margin: 0 16px;
+  padding: 16px;
+}
+
+.location:hover {
+  background-color: var(--raise-element);
+  cursor: pointer;
+}
+
+.checkDone {
+  color: var(--text-disabled);
+  text-decoration: line-through;
+}

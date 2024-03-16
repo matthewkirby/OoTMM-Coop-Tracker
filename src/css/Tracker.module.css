@@ -1,0 +1,8 @@
+
+.tracker {
+  box-sizing: border-box;
+  padding: 2em 1em;
+  max-height: 100vh;
+  width: 100vw;
+  display: flex;
+}

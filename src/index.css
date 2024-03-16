@@ -1,0 +1,27 @@
+:root {
+  --font-color-main: #d5d5d5;
+  --font-color-secondary: #8c898c;
+  --webpage-bg-color: #313131;
+  --header-bgcolor-base: #151515;
+  --header-bgcolor-hover: #1e1e1e;
+  --element-bgcolor-base: #212121;
+  --element-bgcolor-hover: #303030;
+  --element-emphasis-color: #22a7f0;
+
+  --raise-element: rgba(255, 255, 255, 0.05);
+
+  --text-primary: #fff;
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  --text-disabled: rgba(255, 255, 255, 0.4);
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+}

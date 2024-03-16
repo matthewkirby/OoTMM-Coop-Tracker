@@ -1,0 +1,147 @@
+Seed: 91f89241d6e845e7a565afbca9969a544156a2ae736c1f6e56cbeb733b29db222fe21834ec72bae413776208d4326de9
+Version: v20.0
+SettingsString: v1.eJyFVNFu2zAM/Bc/7wv2tgZNC2xBiyVAgL0pMmMLkUSDlOoaRf99lJ3EsuO0j7470RR5p4/CYQnFz0IjNsWPwgRwr4hWENaKNAjG6CsWQPmurYESVKEtt6dobYhW7fAEvhdYK1yNkYHvscH4ysK2jsejTf/loChhQjnVrNA1inmRZicVfkN3Jl8wTHua8Rv3Jf1sSsD4dYlVDRyelIOp6oDMX/QxpW/aMPYN6G9sIBtCxgds/VoZ6hZZDqS6nu57+0bzEgRa1miKh/wCgSJM4dT4gGpsb6UjOAq5xmYylWPsd57h/TjOMLZ2ubkBfMXAeW8jmv+xB59ITHOr7eEb8ZoA+vkvnBi5xWPPIG68c2zgbo5tgHStfM6U5k0cnXw1tcHAHtPm1hh9UGbihOy3dzXjT6CqZoUbMjoV2co2Uh5bMFUdoCwyKu1/idu4e6c2btcnekpVyqPfkVFWznwUoWvg/AJ8Ss4R/UpWU6dnp9M27VxVkjblq0HWqo6TEU6m+Qe2VNd7y5y38iyBJmyzeWADfqP4lJq8GpQkh3tFTW7aC5bbULPTj+8SmovqYBWHVG4lD2EpeRStZLYTG1NIvdoA9Ac57BFLfnw3gccZY0XAbN5krUZaH8yS48VU1SJ9LxpK9U3fFa0s6lPaEEOjSIU+SdFv5fEeXXGwEdaG4BfJAK9d69rYci/bgfEmGq3MStkZfMAQ0FlIY5wQKGsxXj1E4T3fWnaRz9KC0fKjB9fl6bqCM+EDTuN+wbI36zyN4UuW20jWEOmCiN/SJYbxz8Fh3HM0mKziGXxAdEDi2xn+rJzgM3CVxrwjVZ4j+fkf2UC7Bw==
+
+Settings
+  mode: coop
+
+Special Conditions
+  BRIDGE:
+    count: 0
+  MOON:
+    count: 4
+  LACS:
+    count: 0
+  GANON_BK:
+    count: 0
+  MAJORA:
+    count: 0
+
+Tricks
+  Nighttime Gold Skulltulas without Sun's Song
+
+Starting Items
+  Clock (Night 3): 1
+
+World Flags
+  ganonTrials: all
+
+Hints
+  Way of the Hero:
+    MM Ikana Canyon Gossip Upper
+      Southern Swamp    MM Southern Swamp Grotto Grass 11 - Soul of King Dodongo
+
+  Foolish:
+    MM Cucco Shack Gossip
+      The Moon
+
+  Specific Hints:
+    MM Doggy Racetrack Gossip
+      MM Mountain Village Don Gero Mask (Green Rupee (MM))
+
+  Regional Hints:
+    MM Moon Trial Deku Gossip Back
+      Graveyard (Gibdo Mask)
+
+
+  Foolish Regions:
+    Goron Village: 45
+
+===========================================================================
+Spheres
+  Sphere 0
+    MM Clock Tower Roof Pot 1: Soul of Eyegores (MM)
+    MM Clock Town Laundry Pool Grass 1: Giant's Mask
+
+  Sphere 1
+    MM Astral Observatory Moon Tear: Gold Skulltula Token
+    MM Woods of Mystery Grass SW: Small Key (Water Temple)
+
+===========================================================================
+Location List (3491)
+  Inside Eggs (2):
+    OOT Hatch Chicken: Silver Rupee (Gerudo Training Ground - Water)
+    OOT Hatch Pocket Cucco: Red Rupee (OoT)
+
+  Kokiri Forest (73):
+    OOT Kokiri Forest Cow: Green Rupee (MM)
+    OOT Link's House Pot: Small Magic Jar (MM)
+    OOT Kokiri Forest Kokiri Sword Chest: Rupoor (OoT)
+
+  Snowhead (2):
+    MM Snowhead Owl Statue: Silver Rupee (MM)
+    MM Snowhead Great Fairy: Rupoor (MM)
+
+  Termina Field (50):
+    MM Termina Field Cow Grotto Grass 01: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 02: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 03: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 04: Rupoor (OoT)
+    MM Termina Field Cow Grotto Grass 05: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 06: Red Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 07: Rupoor (MM)
+    MM Termina Field Cow Grotto Grass 08: Rupoor (MM)
+    MM Termina Field Cow Grotto Grass 09: Deku Stick (OoT)
+    MM Termina Field Cow Grotto Grass 10: Letter to Kafei
+    MM Termina Field Cow Grotto Grass 11: Progressive Wallet (OoT)
+    MM Termina Field Cow Grotto Grass 12: Gold Skulltula Token
+    MM Termina Field Cow Grotto Grass 13: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 14: Blue Rupee (MM)
+    MM Termina Field Cow Grotto Grass 15: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 16: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 17: Rupoor (MM)
+    MM Termina Field Cow Grotto Grass 18: Heart Container (OoT)
+    MM Termina Field Cow Grotto Grass 19: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 20: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 21: Romani Milk
+    MM Termina Field Cow Grotto Grass 22: Progressive Shield (OoT)
+    MM Termina Field Cow Grotto Grass 23: Large Magic Jar (MM)
+    MM Termina Field Cow Grotto Grass 24: Fairy (OoT)
+    MM Termina Field Cow Grotto Grass 25: Silver Rupee (Gerudo Training Ground - Slopes)
+    MM Termina Field Cow Grotto Grass 26: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 27: 10 Arrows (MM)
+    MM Termina Field Cow Grotto Grass 28: 30 Deku Seeds
+    MM Termina Field Cow Grotto Grass 29: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 30: Red Potion (OoT)
+    MM Termina Field Cow Grotto Grass 31: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 32: Large Magic Jar (MM)
+    MM Termina Field Cow Grotto Grass 33: Pocket Egg
+    MM Termina Field Cow Grotto Grass 34: Stray Fairy (Great Bay Temple)
+    MM Termina Field Cow Grotto Grass 35: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 36: Rupoor (OoT)
+    MM Termina Field Cow Grotto Grass 37: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 38: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 39: 10 Arrows (MM)
+    MM Termina Field Cow Grotto Grass 40: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 41: Blue Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 42: Recovery Heart (OoT)
+    MM Termina Field Cow Grotto Grass 43: Fairy (OoT)
+    MM Termina Field Cow Grotto Grass 44: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 45: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 46: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 47: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 48: Gold Skulltula Token
+    MM Termina Field Cow Grotto Grass 49: Silver Rupee (Shadow Temple - Spikes)
+    MM Termina Field Cow Grotto Grass 50: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 51: Fairy (OoT)
+    MM Termina Field Cow Grotto Grass 52: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 53: Ocean Title Deed
+    MM Termina Field Cow Grotto Grass 54: Rupoor (MM)
+    MM Termina Field Cow Grotto Grass 55: Recovery Heart (OoT)
+    MM Termina Field Cow Grotto Grass 56: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 57: Song of Time (OoT)
+    MM Termina Field Cow Grotto Grass 58: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 59: Soul of Bubbles (OoT)
+    MM Termina Field Cow Grotto Grass 60: Recovery Heart (OoT)
+    MM Termina Field Cow Grotto Grass 61: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 62: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 63: Soul of Iron Knuckles (MM)
+    MM Termina Field Cow Grotto Grass 64: Recovery Heart (MM)
+    MM Termina Field Cow Grotto Grass 65: Rupoor (MM)
+    MM Termina Field Cow Grotto Grass 66: Megaton Hammer
+    MM Termina Field Cow Grotto Grass 67: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 68: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 69: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 70: Green Rupee (OoT)
+    MM Termina Field Cow Grotto Grass 71: Green Rupee (MM)
+    MM Termina Field Cow Grotto Grass 72: Green Rupee (OoT)
